@@ -1,1 +1,2 @@
-# learnGit
+# Javaweb/数据库 课设
+# 学生成绩管理系统
